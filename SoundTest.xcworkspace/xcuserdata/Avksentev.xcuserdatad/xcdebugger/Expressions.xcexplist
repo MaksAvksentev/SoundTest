@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "TracksViewController.addToFavorites(itemAtIndexPath : IndexPath) -&gt; ():TracksViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sound.favorite">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LTMorphingLabel.limboOfCharacters() -&gt; [LTCharacterLimbo]:LTMorphingLabel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "diffResults?.0.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TimerViewController.initialize() -&gt; ():TimerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Date.getCurrentDate()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CoreDataManager.saveContext() -&gt; ():CoreDataManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TracksDataSource.soundItem(forIndexPath : IndexPath) -&gt; Sound?:TracksDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tracks[indexPath.row]">
+            </PersistentString>
+            <PersistentString
+               value = "tracks">
+            </PersistentString>
+            <PersistentString
+               value = "indexPath.row">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TracksDataSource.(getPlaylist(completionHandler : (Bool, Error?) -&gt; ()) -&gt; ()).(closure #1):TracksDataSource.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.response.error">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayerViewController.playSound(NSNotification) -&gt; ():PlayerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sound.uri">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TracksDataSource.initialize() -&gt; ():TracksDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TracksDataSource.init() -&gt; TracksDataSource:TracksDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "PlayerViewController.viewDidLoad() -&gt; ():PlayerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sounds[2].title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TracksViewController.checkState() -&gt; ():TracksViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TracksDataSource.tableView(UITableView, numberOfRowsInSection : Int) -&gt; Int:TracksDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TracksDataSource.tableView(UITableView, cellForRowAt : IndexPath) -&gt; UITableViewCell:TracksDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FetchDataSource.numberOfRows(inSection : Int) -&gt; Int:FetchDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FetchDataSource.init(withFetchRequest : NSFetchRequest&lt;A&gt;) -&gt; FetchDataSource&lt;A&gt;:FetchDataSource.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ViewController.viewDidLoad() -&gt; ():ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sound.artwork_url">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TimerViewController.save() -&gt; ():TimerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Date.getCurrentDate()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

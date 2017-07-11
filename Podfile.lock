@@ -1,0 +1,41 @@
+PODS:
+  - 1PasswordExtension (1.8.4)
+  - Alamofire (4.5.0)
+  - BNRCoreDataStack (2.2.1)
+  - CocoaLumberjack/Default (3.2.0)
+  - CocoaLumberjack/Swift (3.2.0):
+    - CocoaLumberjack/Default
+  - CountdownLabel (2.0.1)
+  - Jukebox (0.2.1)
+  - KeychainAccess (3.0.2)
+  - ReachabilitySwift (3)
+  - Soundcloud (1.1.0):
+    - 1PasswordExtension (~> 1.8.3)
+    - KeychainAccess (~> 3.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - BNRCoreDataStack
+  - CocoaLumberjack/Swift
+  - CountdownLabel
+  - Jukebox
+  - ReachabilitySwift
+  - Soundcloud
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  1PasswordExtension: e775a29310c65851e5a6cec1afc349ab4e334e47
+  Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  BNRCoreDataStack: 7919a8c27691681c6ca0650b2757292eeba6d14a
+  CocoaLumberjack: 9b4aed7073d242f29cc2f62068d995faf67f703a
+  CountdownLabel: 1297533b42ef5c1a441cd458136c35ad93210da1
+  Jukebox: 81db618ccd3a1cc9b154f4ae0f5c4b54638666dd
+  KeychainAccess: a986406022dfc7c634c691ad3bec670cc6a32002
+  ReachabilitySwift: f5b9bb30a0777fac8f09ce8b067e32faeb29bb64
+  Soundcloud: 476ba41826b4968a963048e76303056dbe529b64
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 561588c5872155cd3caac6350603fea3fc6ee6c3
+
+COCOAPODS: 1.2.0
