@@ -30,8 +30,8 @@ class TimerViewController: UIViewController, CountdownLabelDelegate {
     override func viewDidLoad() {
         
         super.viewDidLoad()
-        self.configureButton()
         self.configureTimer()
+        self.initialize()
     }
     
     override func viewWillAppear(_ animated: Bool) {
@@ -115,12 +115,13 @@ class TimerViewController: UIViewController, CountdownLabelDelegate {
         if let data = state, let type = NSKeyedUnarchiver.unarchiveObject(with: data) as? String, type == "Stop", let timerData = timerTime, let timer = NSKeyedUnarchiver.unarchiveObject(with: timerData) as? TimeInterval {
             
             if timer - Date.getCurrentDate() < Date.getCurrentDate(){
-                self.configureButton()
+                
                 self.datePicker.isHidden = true
                 self.timerLabel.isHidden = false
                 
                 self.timerLabel.setCountDownTime(minutes: timer - Date.getCurrentDate())
                 self.timerLabel.start()
+                self.configureButton()
             }
         }
     }
